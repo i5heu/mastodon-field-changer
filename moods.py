@@ -18,4 +18,5 @@ MOOD_LIST = [
     "evil",
     "meow",
     "zzzzzzzzzz",
+    "In a state of Elixir".
 ]
